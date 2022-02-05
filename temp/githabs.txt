@@ -1,0 +1,5 @@
+https://github.com/larzon83/vitesse-nuxt3?ref=https://githubhelp.com
+https://github.com/fluencelabs/examples/tree/main/quickstart
+https://doc.fluence.dev/docs/tutorials_tutorials/add-your-own-builtin  
+https://github.com/fluencelabs/marine-rs-sdk
+https://github.com/fluencelabs/aqua
